@@ -9,7 +9,7 @@ print("please wait... Camera will start ...")
 '''google it- google developer console
 Create a new project in Google Developer Console by clicking “CREATE PROJECT”.
 You can give your project a name or leave it as default.
-Enable APIs and Services by clicking the “ENABLE APIS AND SERVICES” as indicated by the red circle in the following picture.
+Enable APIs and Services by clicking the “ENABLE APIS AND SERVICES” as indicated by the red circle.
 Search “Google Drive” in the API library
 Click the “Google Drive API” icon and then click “ENABLE”, which will enable your Google Drive API service.
 Create credentials by clicking the “CREATE CREDENTIALS” icon
