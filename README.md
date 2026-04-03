@@ -25,3 +25,8 @@ The Impact: Why This Matters
 Total Transparency: Provides a synchronized record of the digital and physical environment, making "unverifiable" cheating a thing of the past.
 
 Streamlined Auditing: The COE receives a clean, organized dashboard of links, turning a week-long verification process into a few hours of spot-checking.
+
+<h1>Demo showcased in a computer fair</h1>
+
+![Smart Invigilator Computer Fair](https://github.com/user-attachments/assets/c066dc03-41d2-4055-ae4b-90bd41763470)
+
